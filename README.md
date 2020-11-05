@@ -6,7 +6,7 @@
 <img src="https://images.unsplash.com/photo-1467103789230-f91a5ff8048a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80">
 </p>
 
-**IMPORTANT:** If GitHub fails to load the Jupyter Notebook, you can access a static version [here](https://github.com/palaciodaniel/natural_language_processing_and_wordclouds_on_books/blob/main/applying_nlp_and_wordclouds_to_horror_books.ipynb). Also, remember it was [uploaded to Binder](https://mybinder.org/v2/gh/palaciodaniel/natural_language_processing_and_wordclouds_on_books/main?filepath=applying_nlp_and_wordclouds_to_horror_books.ipynb) as well...
+**IMPORTANT:** If GitHub fails to load the Jupyter Notebook, you can access a static version [here](https://nbviewer.jupyter.org/github/palaciodaniel/natural_language_processing_and_wordclouds_on_books/blob/main/applying_nlp_and_wordclouds_to_horror_books.ipynb). Also, remember it was [uploaded to Binder](https://mybinder.org/v2/gh/palaciodaniel/natural_language_processing_and_wordclouds_on_books/main?filepath=applying_nlp_and_wordclouds_to_horror_books.ipynb) as well...
 
 ## Credits
 Code written from scratch by **Daniel Palacio**.
